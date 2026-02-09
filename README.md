@@ -18,7 +18,7 @@ In this lab, I configured VLANs with their proper access, voice, and trunking po
 - <b>Configure Static & Dynamic Trunking on the listed switches.</b>
 
 <h2>Background: Viewing the Addressing Table + Objectives + VLAN Table</h2>
-
+<br/>
 <p align="center">
 <br/>
 <img src="https://i.imgur.com/GIvJQ7t.png" height="80%" width="80%" alt="#1"/>
